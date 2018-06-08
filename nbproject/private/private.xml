@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/Minesweeper/test/minesweeper/MinesweeperTest.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/Minesweeper/src/minesweeper/core/Field.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/Minesweeper/src/minesweeper/swingui/BestTimesDialog.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/Minesweeper/src/minesweeper/core/Mine.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/Minesweeper/src/minesweeper/consoleui/WrongFormatException.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/Minesweeper/src/minesweeper/DatabaseSetting.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/Minesweeper/src/minesweeper/swingui/TileComponent.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/Minesweeper/src/minesweeper/Minesweeper.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/Minesweeper/src/minesweeper/BestTimes.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/Minesweeper/src/minesweeper/core/Clue.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/Minesweeper/src/minesweeper/consoleui/ConsoleUI.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/Minesweeper/src/minesweeper/Settings.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/Minesweeper/src/minesweeper/UserInterface.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/Minesweeper/test/minesweeper/core/FieldTest.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/Minesweeper/test/minesweeper/SettingsTest.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/Minesweeper/test/minesweeper/BestTimesTest.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/Minesweeper/src/minesweeper/core/GameState.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/Minesweeper/src/minesweeper/core/Tile.java</file>
+            <file>file:/C:/Users/Peter/Documents/NetBeansProjects/Minesweeper/src/minesweeper/swingui/SwingUI.java</file>
+        </group>
+    </open-files>
+</project-private>
